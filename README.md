@@ -17,7 +17,7 @@ I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) 
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="20" height="20"/>
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arch-linux-logo-1.svg" alt="Arch Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="40" height="40"/>
 
 ---
 
