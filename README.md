@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 ---
@@ -20,4 +21,34 @@ I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) 
 <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arch-linux-logo-1.svg" alt="Arch Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="40" height="40"/>
 
 ---
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masjohncook&hide=java,html,css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=masjohncook&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube videos](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA?sub_confirmation=1)
+
+---
+
+<!--
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles]()
+
+-->
+
+
+
+
 
