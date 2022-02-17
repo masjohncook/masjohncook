@@ -2,7 +2,7 @@
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/masjohncook?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/masjohncook?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCHoBGgHadJzm-D_xVQCN1CA?style=social)
 
 <!--
 **masjohncook/masjohncook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
