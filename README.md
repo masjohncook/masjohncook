@@ -17,7 +17,7 @@ I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) 
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="JavaScript Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="20" height="20"/>
 
 ---
 
