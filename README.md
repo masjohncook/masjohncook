@@ -30,6 +30,11 @@ I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) 
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [OSCAR Methodology in Network Forensic&lpar;Bahasa Indonesia&rpar;](https://www.youtube.com/watch?v=b22yo4rw0Uo)
+- [Introduction Network Forensic](https://www.youtube.com/watch?v=I1T32pxKa8c)
+- [Mobile Device Evidence Handling&lpar;Bahasa Indonesia&rpar;](https://www.youtube.com/watch?v=8Ea2NBlF3hk)
+- [Mobile Forensics Investigation Process&lpar;Bahasa Indonesia&rpar;](https://www.youtube.com/watch?v=evMlC_4E6eE)
+- [Business Model Canvas&lpar;Bahassa Indonesia&rpar;](https://www.youtube.com/watch?v=SEvvQaG7ZFw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
