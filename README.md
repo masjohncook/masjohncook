@@ -35,18 +35,14 @@ I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) 
 
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA?sub_confirmation=1)
 
----
 
 <!--
 
-📘 Latest Blog Articles
+📘 Latest Blog Articles -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles]()
-
--->
 
 
 
