@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 -->
-A citizen of the universe that loved technologies. 🔭 I’m currently working as a research assistant at High-Speed Network Laboratory, National Yang Ming Chiao Tung Univerisity. I am familiar with Linux, Bahs Script, Python, C, and sometimes Java. 🌱 I’m currently learning how to optimize using Github to manage my work experiments. 
+A citizen of the universe that loved technologies. 🔭 I’m currently working as a research assistant at High-Speed Network Laboratory, National Yang Ming Chiao Tung University. I am familiar with Linux, Bahs Script, Python, C, and sometimes Java. 🌱 I’m currently learning how to optimize using Github to manage my work experiments. 
 
 I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) channel to look forward to reaching and helping people by sharing something.
 
