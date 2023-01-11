@@ -23,7 +23,8 @@ I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) 
 ---
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masjohncook&hide=java,html,css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=masjohncook&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masjohncook&hide=java,html,css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=masjohncook&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## &#x1f4c8; My GitHub Ranks
