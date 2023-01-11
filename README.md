@@ -28,7 +28,7 @@ I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) 
 ---
 ## &#x1f4c8; My GitHub Ranks
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=masjohncook&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=masjohncook&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 📺 Latest YouTube Videos
