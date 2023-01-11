@@ -26,7 +26,11 @@ I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masjohncook&hide=java,html,css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![masjohncook's GitHub stats](https://github-readme-stats.vercel.app/api?username=masjohncook&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## &#x1f4c8; My GitHub Ranks
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=masjohncook&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
