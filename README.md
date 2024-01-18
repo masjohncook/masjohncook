@@ -10,9 +10,13 @@
 
 Here are some ideas to get you started:
 -->
-A citizen of the universe that loved technologies. 🔭 I’m currently working as a research assistant at High-Speed Network Laboratory, National Yang Ming Chiao Tung University. I am familiar with Linux, Bahs Script, Python, C, and sometimes Java. 🌱 I’m currently learning how to optimize using Github to manage my work experiments. 
+🌌 Greetings, fellow inhabitants of the digital cosmos! I am a technology enthusiast traversing the vast realms of knowledge and exploration. By day, I assume the role of a diligent researcher at the High-Speed Network Laboratory, nestled within the intellectual haven of National Yang Ming Chiao Tung University.
 
-I managed a [Youtube](https://www.youtube.com/channel/UCHoBGgHadJzm-D_xVQCN1CA) channel to look forward to reaching and helping people by sharing something.
+🔭 My journey in the technological expanse has led me to mastery in several domains. I wield the power of Linux and the elegance of Bash Script, navigating through the intricate landscapes of code. The languages of Python and C are my trusted companions, and occasionally, I embark on adventures in the realm of Java.
+
+🌱 Ever the avid learner, I am currently honing my skills in the art of optimization, utilizing the vast capabilities of GitHub to orchestrate and streamline my experiments. Each line of code is a step towards enhancing efficiency and crafting seamless solutions to complex challenges.
+
+🎥 Beyond the realms of academia, I curate a YouTube channel where I strive to be a beacon of knowledge. Through video content, I aspire to connect with and assist a global audience, sharing insights, discoveries, and the joy of continuous learning. Join me on this digital odyssey, as we explore, create, and make a positive impact on the technological tapestry of our shared universe.
 
 ---
 
